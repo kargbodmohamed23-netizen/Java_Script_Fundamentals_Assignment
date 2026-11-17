@@ -13,9 +13,9 @@ console.log("Discounted Cost:", discountedCost);
 
 //  split cost among three feriends 
 let costSplit = totalCost / 3
-console.log("Cost Split per person:", costSplit);
+console.log("Cost split per person:", costSplit);
 
 // THE LEFT OVER AMOUNT   
 let leftOverAmount = totalCost % 7
-console.log("Left Over Amount:", leftOverAmount);
+console.log("Left over amount:", leftOverAmount);
 
